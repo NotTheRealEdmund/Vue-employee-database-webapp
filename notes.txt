@@ -1,0 +1,15 @@
+Set-up.
+Open the Employee Database folder using VScode and open cmd.
+Make sure you have Vue CLI installed. Type "vue --version" to check.
+To create a new Vue project, type "vue init webpack employee-database"
+For the options: Enter -> Enter -> Enter -> Enter -> n -> n -> n -> n -> Enter
+Enter the directory, type "cd employee-database"
+Run the webapp using "npm run dev"
+In your browser, type "localhost:8080" to visit the website.
+You'll see the basic Vue boilerplate which has yet to be edited.
+****************************************************************************************************************************************
+Every time you want to run the website, open cmd.
+"cd\Users\edmun\OneDrive\Desktop\Vue.js\Employee Database\employee-database" (Enter the directory)
+"npm run dev" (Run the server)
+In your browser, type "localhost:8080" (Visit the website)
+****************************************************************************************************************************************
